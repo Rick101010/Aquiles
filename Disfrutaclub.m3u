@@ -1,1045 +1,1046 @@
 #EXTM3U
 
-#EXTINF:-1 tv-logo="https://i.imgur.com/VmMIVlJ.png",[COLOR gold]                    Till Abril 26----User erich[/COLOR]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VmMIVlJ.png",[COLOR gold]                    Till Abril 26----User erich[/COLOR]
 http://disfruta.club:8000/get.php?username=erich&password=erich&type=m3u
 
-#EXTINF:-1 tv-logo="https://i.imgur.com/w2hHTcX.png",[COLOR aquamarine]                   24/7[COLOR aquamarine][/COLOR]
-#EXTINF:-1 tv-logo="https://i.imgur.com/9t9an8n.png",24/7-Los Simpsons HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w2hHTcX.png",[COLOR aquamarine]                   24/7[COLOR aquamarine][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9t9an8n.png",24/7-Los Simpsons HD
 http://disfruta.club:8000/live/erich/erich/836.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/O0O6JPA.png",24/7-Peliculas FULL HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O0O6JPA.png",24/7-Peliculas FULL HD
 http://disfruta.club:8000/live/erich/erich/854.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/RsVyZqR.png",24/7-Bob Esponja SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RsVyZqR.png",24/7-Bob Esponja SD
 http://disfruta.club:8000/live/erich/erich/853.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/8Rlap87.png",24/7-Canal Disney  HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8Rlap87.png",24/7-Canal Disney  HD
 http://disfruta.club:8000/live/erich/erich/852.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/TxgP33c.png",24/7-Dragon Ball HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TxgP33c.png",24/7-Dragon Ball HD
 http://disfruta.club:8000/live/erich/erich/851.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/kKyG8gu.png",24/7-Dragon Ball Z HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kKyG8gu.png",24/7-Dragon Ball Z HD
 http://disfruta.club:8000/live/erich/erich/850.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/MUKvMPV.png",24/7-El Chapulín Colorado SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MUKvMPV.png",24/7-El Chapulín Colorado SD
 http://disfruta.club:8000/live/erich/erich/849.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/fm5y4Vl.png",24/7-El Chavo del Ocho SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fm5y4Vl.png",24/7-El Chavo del Ocho SD
 http://disfruta.club:8000/live/erich/erich/848.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/UizXW9a.png",24/7-Family Guy HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UizXW9a.png",24/7-Family Guy HD
 http://disfruta.club:8000/live/erich/erich/847.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/yJMMD42.png",24/7-Futurama HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yJMMD42.png",24/7-Futurama HD
 http://disfruta.club:8000/live/erich/erich/846.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/vO1Ql93.png",24/7-Los caballeros del Zodiaco HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vO1Ql93.png",24/7-Los caballeros del Zodiaco HD
 http://disfruta.club:8000/live/erich/erich/845.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/RhNe49F.png",24/7-MacGyver SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RhNe49F.png",24/7-MacGyver SD
 http://disfruta.club:8000/live/erich/erich/834.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/yJMMD42.png",24/7-Malcolm  HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yJMMD42.png",24/7-Malcolm  HD
 http://disfruta.club:8000/live/erich/erich/844.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/yJMMD42.png",24/7-Malcolm  HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yJMMD42.png",24/7-Malcolm  HD
 http://disfruta.club:8000/live/erich/erich/843.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/vo7uQA6.png",24/7-Pocoyó SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vo7uQA6.png",24/7-Pocoyó SD
 http://disfruta.club:8000/live/erich/erich/841.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/FbaVzDX.png",24/7-Ranma ½ HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FbaVzDX.png",24/7-Ranma ½ HD
 http://disfruta.club:8000/live/erich/erich/840.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/ePWvLrZ.png",24/7-Scooby Doo HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ePWvLrZ.png",24/7-Scooby Doo HD
 http://disfruta.club:8000/live/erich/erich/839.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/tLLiHDU.png",24/7-South Park  HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tLLiHDU.png",24/7-South Park  HD
 http://disfruta.club:8000/live/erich/erich/838.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/9y88Qzd.png",24/7-Súper Campeones SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9y88Qzd.png",24/7-Súper Campeones SD
 http://disfruta.club:8000/live/erich/erich/837.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/0WoeOpJ.png",24/7-WWE 24/7 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0WoeOpJ.png",24/7-WWE 24/7 HD
 http://disfruta.club:8000/live/erich/erich/835.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/dN4gJGe.png",24/7-Cantinflas  (SD)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dN4gJGe.png",24/7-Cantinflas  (SD)
 http://disfruta.club:8000/live/erich/erich/3096.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/91jh0Uu.png",24/7-Chespirito SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/91jh0Uu.png",24/7-Chespirito SD
 http://disfruta.club:8000/live/erich/erich/3090.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/2oZAaYG.png",24/7-Coraje El Perro Cobarde SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2oZAaYG.png",24/7-Coraje El Perro Cobarde SD
 http://disfruta.club:8000/live/erich/erich/3095.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/bakSQuJ.png",24/7-Dragon Ball Super HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bakSQuJ.png",24/7-Dragon Ball Super HD
 http://disfruta.club:8000/live/erich/erich/3093.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/uVIkh1q.png",24/7-El Coyote y el Correcaminos SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uVIkh1q.png",24/7-El Coyote y el Correcaminos SD
 http://disfruta.club:8000/live/erich/erich/3094.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/kh6vHv6.png",24/7-El Pajaro Loco SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kh6vHv6.png",24/7-El Pajaro Loco SD
 http://disfruta.club:8000/live/erich/erich/3092.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/RuNv36C.png",24/7-El príncipe de Bel-Air SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RuNv36C.png",24/7-El príncipe de Bel-Air SD
 http://disfruta.club:8000/live/erich/erich/3091.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/8cy1Ybb.png",24/7-He-Man y los Amos del Universo SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8cy1Ybb.png",24/7-He-Man y los Amos del Universo SD
 http://disfruta.club:8000/live/erich/erich/3088.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/R6Torva.png",24/7-Hey Arnold! SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R6Torva.png",24/7-Hey Arnold! SD
 http://disfruta.club:8000/live/erich/erich/3089.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/KmXbKbW.png",24/7-Inspector Gadget SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KmXbKbW.png",24/7-Inspector Gadget SD
 http://disfruta.club:8000/live/erich/erich/3087.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/GTNScNQ.png",24/7-La familia P.Luche SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GTNScNQ.png",24/7-La familia P.Luche SD
 http://disfruta.club:8000/live/erich/erich/3086.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/pecPuHT.png",24/7-Looney Tunes HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pecPuHT.png",24/7-Looney Tunes HD
 http://disfruta.club:8000/live/erich/erich/3085.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/o58yFE2.png",24/7-Los Tres Chiflados SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/o58yFE2.png",24/7-Los Tres Chiflados SD
 http://disfruta.club:8000/live/erich/erich/3084.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/hF8LOKA.png",24/7-Power Rangers Mighty Morphin SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hF8LOKA.png",24/7-Power Rangers Mighty Morphin SD
 http://disfruta.club:8000/live/erich/erich/3083.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/ePXwYtf.png",24/7-The A-Team SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ePXwYtf.png",24/7-The A-Team SD
 http://disfruta.club:8000/live/erich/erich/3082.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/4bzcu0q.png",24/7-ThunderCats SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4bzcu0q.png",24/7-ThunderCats SD
 http://disfruta.club:8000/live/erich/erich/3081.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/97sMtT8.png",24/7-Tom and Jerry HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/97sMtT8.png",24/7-Tom and Jerry HD
 http://disfruta.club:8000/live/erich/erich/3080.ts
 
 
-#EXTINF:-1 tv-logo="https://i.imgur.com/21WUDlW.png",[COLOR gold]                CABLE LATINO  (SD)[/COLOR]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/21WUDlW.png",[COLOR gold]                CABLE LATINO  (SD)[/COLOR]
 http://disfruta.club:8000
-#EXTINF:-1 tv-logo="https://i.imgur.com/1ULZbQY.png",A&E
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1ULZbQY.png",A&E
 http://disfruta.club:8000/live/erich/erich/21.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/5XOaDNw.png",AMC
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5XOaDNw.png",AMC
 http://disfruta.club:8000/live/erich/erich/75.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/YcMA5So.png",Animal Planet
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YcMA5So.png",Animal Planet
 http://disfruta.club:8000/live/erich/erich/57.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/9lEU0RC.png",AXN
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9lEU0RC.png",AXN
 http://disfruta.club:8000/live/erich/erich/152.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/bJwVeAQ.png",AYM Sports
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bJwVeAQ.png",AYM Sports
 http://disfruta.club:8000/live/erich/erich/91.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/tphokch.png",AZCinema
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tphokch.png",AZCinema
 http://disfruta.club:8000/live/erich/erich/192.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/qxdouht.png",AzCorazon
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qxdouht.png",AzCorazon
 http://disfruta.club:8000/live/erich/erich/7.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/IUbEq81.png",Azteca Siete
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IUbEq81.png",Azteca Siete
 http://disfruta.club:8000/live/erich/erich/5.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/QhX7btt.png",Azteca Trece
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QhX7btt.png",Azteca Trece
 http://disfruta.club:8000/live/erich/erich/6.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/04BWvYI.png",Baby TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/04BWvYI.png",Baby TV
 http://disfruta.club:8000/live/erich/erich/40.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/mMrt1IE.png",Bandamax
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mMrt1IE.png",Bandamax
 http://disfruta.club:8000/live/erich/erich/100.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/5NlW6ZU.png",Boomerang
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5NlW6ZU.png",Boomerang
 http://disfruta.club:8000/live/erich/erich/49.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/D9uCtMj.png",Canal 5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D9uCtMj.png",Canal 5
 http://disfruta.club:8000/live/erich/erich/8.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/oFatRIe.png",Canal Once
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oFatRIe.png",Canal Once
 http://disfruta.club:8000/live/erich/erich/12.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/q9LGwrt.png",Cartoon Network
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q9LGwrt.png",Cartoon Network
 http://disfruta.club:8000/live/erich/erich/47.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/gWCsh5F.png",Cinecanal
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gWCsh5F.png",Cinecanal
 http://disfruta.club:8000/live/erich/erich/77.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/gWCsh5F.png",Cinecanal 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gWCsh5F.png",Cinecanal 2
 http://disfruta.club:8000/live/erich/erich/70.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/djPbnNO.png",Cinemax
+#EXTINF:-1 tvg-logo="https://i.imgur.com/djPbnNO.png",Cinemax
 http://disfruta.club:8000/live/erich/erich/78.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/oouXOh4.png",De Pelicula
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oouXOh4.png",De Pelicula
 http://disfruta.club:8000/live/erich/erich/74.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/6oUwBaP.png",Discovery Channel
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6oUwBaP.png",Discovery Channel
 http://disfruta.club:8000/live/erich/erich/56.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/rTVpcll.png",Discovery Civilization
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rTVpcll.png",Discovery Civilization
 http://disfruta.club:8000/live/erich/erich/62.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/wfr6WDB.png",Discovery Home & Health
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wfr6WDB.png",Discovery Home & Health
 http://disfruta.club:8000/live/erich/erich/58.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/E9Fy2uP.png",Discovery Kids
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E9Fy2uP.png",Discovery Kids
 http://disfruta.club:8000/live/erich/erich/39.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/GJDrCxG.png",Discovery Science
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GJDrCxG.png",Discovery Science
 http://disfruta.club:8000/live/erich/erich/61.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/V3xvb0k.png",Discovery Theater
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V3xvb0k.png",Discovery Theater
 http://disfruta.club:8000/live/erich/erich/52.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/Bx0J3oH.png",Discovery Turbo
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Bx0J3oH.png",Discovery Turbo
 http://disfruta.club:8000/live/erich/erich/63.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/U6KxQHT.png",Discovery World
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U6KxQHT.png",Discovery World
 http://disfruta.club:8000/live/erich/erich/55.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/oU6YzCu.png",Disney Channel
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oU6YzCu.png",Disney Channel
 http://disfruta.club:8000/live/erich/erich/43.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/nSGxYTB.png",Disney Junior
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nSGxYTB.png",Disney Junior
 http://disfruta.club:8000/live/erich/erich/41.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/1OqNCMJ.png",Disney XD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1OqNCMJ.png",Disney XD
 http://disfruta.club:8000/live/erich/erich/48.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/NTW2KlX.png",Distrito Comedia
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NTW2KlX.png",Distrito Comedia
 http://disfruta.club:8000/live/erich/erich/36.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/kkjKSie.png",DW Latinoamerica
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kkjKSie.png",DW Latinoamerica
 http://disfruta.club:8000/live/erich/erich/251.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/uW1nULI.png",E!
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uW1nULI.png",E!
 http://disfruta.club:8000/live/erich/erich/27.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/he81kss.png",Elgourmet
+#EXTINF:-1 tvg-logo="https://i.imgur.com/he81kss.png",Elgourmet
 http://disfruta.club:8000/live/erich/erich/33.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/oCeCwTP.png",ESPN
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oCeCwTP.png",ESPN
 http://disfruta.club:8000/live/erich/erich/89.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/w0vbxHi.png",ESPN 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w0vbxHi.png",ESPN 2
 http://disfruta.club:8000/live/erich/erich/90.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/lv7vh9H.png",ESPN 3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lv7vh9H.png",ESPN 3
 http://disfruta.club:8000/live/erich/erich/86.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/oCeCwTP.png",ESPN ARGENTINA HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oCeCwTP.png",ESPN ARGENTINA HD
 http://disfruta.club:8000/live/erich/erich/494.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/w0vbxHi.png",ESPN 2 ARGENTINA HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w0vbxHi.png",ESPN 2 ARGENTINA HD
 http://disfruta.club:8000/live/erich/erich/495.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/lv7vh9H.png",ESPN 3 ARGENTINA HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lv7vh9H.png",ESPN 3 ARGENTINA HD
 http://disfruta.club:8000/live/erich/erich/496.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/bxDb4Cd.png",ESPN Deportes
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bxDb4Cd.png",ESPN Deportes
 http://disfruta.club:8000/live/erich/erich/239.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/ALsLWjv.png",ESPN Plus
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ALsLWjv.png",ESPN Plus
 http://disfruta.club:8000/live/erich/erich/85.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/78QCiHL.png",Foro TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/78QCiHL.png",Foro TV
 http://disfruta.club:8000/live/erich/erich/10.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/UTUp3ju.png",Fox
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UTUp3ju.png",Fox
 http://disfruta.club:8000/live/erich/erich/16.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/GfneBrGg.png",Fox Action
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GfneBrGg.png",Fox Action
 http://disfruta.club:8000/live/erich/erich/66.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/W6Suxi7.png",Fox Cinema
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W6Suxi7.png",Fox Cinema
 http://disfruta.club:8000/live/erich/erich/68.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/4kb2OEg.png",Fox Classics
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4kb2OEg.png",Fox Classics
 http://disfruta.club:8000/live/erich/erich/69.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/CMYyy6x.png",FOX Comedy
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CMYyy6x.png",FOX Comedy
 http://disfruta.club:8000/live/erich/erich/150.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/DVH4dkW.png",FOX Deportes
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DVH4dkW.png",FOX Deportes
 http://disfruta.club:8000/live/erich/erich/240.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/lV0lBXh.png",FOX Family
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lV0lBXh.png",FOX Family
 http://disfruta.club:8000/live/erich/erich/210.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/KuUF3xR.png",Fox Life
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KuUF3xR.png",Fox Life
 http://disfruta.club:8000/live/erich/erich/35.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/0ygKQLe.png",Fox Movies
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0ygKQLe.png",Fox Movies
 http://disfruta.club:8000/live/erich/erich/67.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/nmwsSgy.png",Fox SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nmwsSgy.png",Fox SD
 http://disfruta.club:8000/live/erich/erich/25.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/qQcRHSX.png",Fox Series
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qQcRHSX.png",Fox Series
 http://disfruta.club:8000/live/erich/erich/65.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/sGxVptH.png",Fox Sports Argentina HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sGxVptH.png",Fox Sports Argentina HD
 http://disfruta.club:8000/live/erich/erich/292.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/ceDPFGh.png",Fox Sports 2 Argentina HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ceDPFGh.png",Fox Sports 2 Argentina HD
 http://disfruta.club:8000/live/erich/erich/493.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/nK8yBFR.png",Fox Sports 3 Argentina HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nK8yBFR.png",Fox Sports 3 Argentina HD
 http://disfruta.club:8000/live/erich/erich/960.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/sGxVptH.png",Fox Sports
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sGxVptH.png",Fox Sports
 http://disfruta.club:8000/live/erich/erich/87.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/ceDPFGh.png",Fox Sports 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ceDPFGh.png",Fox Sports 2
 http://disfruta.club:8000/live/erich/erich/88.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/nK8yBFR.png",Fox Sports 3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nK8yBFR.png",Fox Sports 3
 http://disfruta.club:8000/live/erich/erich/278.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/sGxVptH.png",FOX SPORTS SUR (CHILE)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sGxVptH.png",FOX SPORTS SUR (CHILE)
 http://disfruta.club:8000/live/erich/erich/121.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/ceDPFGh.png",FOX SPORTS 2 SUR
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ceDPFGh.png",FOX SPORTS 2 SUR
 http://disfruta.club:8000/live/erich/erich/127.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/1LObw3e.png",FX
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1LObw3e.png",FX
 http://disfruta.club:8000/live/erich/erich/20.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/1LObw3e.png",FX SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1LObw3e.png",FX SD
 http://disfruta.club:8000/live/erich/erich/30.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/aqXFYAF.png",FXM Movies
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aqXFYAF.png",FXM Movies
 http://disfruta.club:8000/live/erich/erich/73.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/ATyMgzc.png",Gala TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ATyMgzc.png",Gala TV
 http://disfruta.club:8000/live/erich/erich/11.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/W1U89H2.png",Glitz
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W1U89H2.png",Glitz
 http://disfruta.club:8000/live/erich/erich/34.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/kWaM5od.png",Golden Plus
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kWaM5od.png",Golden Plus
 http://disfruta.club:8000/live/erich/erich/72.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/V2R88KX.png",Golden Premier
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V2R88KX.png",Golden Premier
 http://disfruta.club:8000/live/erich/erich/79.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/Ou5b7HO.png",GolTV Premier
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ou5b7HO.png",GolTV Premier
 http://disfruta.club:8000/live/erich/erich/260.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/amfd1q5.png",H2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/amfd1q5.png",H2
 http://disfruta.club:8000/live/erich/erich/140.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/dHjr3lG.png",HBO 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dHjr3lG.png",HBO 2
 http://disfruta.club:8000/live/erich/erich/125.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/IviSU1q.png",HBO FAMILY
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IviSU1q.png",HBO FAMILY
 http://disfruta.club:8000/live/erich/erich/124.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/1PlpN3S.png",HBO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1PlpN3S.png",HBO
 http://disfruta.club:8000/live/erich/erich/123.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/T0MqNBw.png",HBO PLUS
+#EXTINF:-1 tvg-logo="https://i.imgur.com/T0MqNBw.png",HBO PLUS
 http://disfruta.club:8000/live/erich/erich/126.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/T0MqNBw.png",HBO PLUS OESTE
+#EXTINF:-1 tvg-logo="https://i.imgur.com/T0MqNBw.png",HBO PLUS OESTE
 http://disfruta.club:8000/live/erich/erich/122.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/oS8FgXx.png",HBO Signature
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oS8FgXx.png",HBO Signature
 http://disfruta.club:8000/live/erich/erich/112.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/z8kAAUo.png",HTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z8kAAUo.png",HTV
 http://disfruta.club:8000/live/erich/erich/7481.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/IPb8Kkg.png",History
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IPb8Kkg.png",History
 http://disfruta.club:8000/live/erich/erich/53.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/oKrOeYJ.png",Investigation Discovery
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oKrOeYJ.png",Investigation Discovery
 http://disfruta.club:8000/live/erich/erich/31.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/5bFOsGN.png",iSat
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5bFOsGN.png",iSat
 http://disfruta.club:8000/live/erich/erich/83.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/vKnKlDV.png",Las Estrellas
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vKnKlDV.png",Las Estrellas
 http://disfruta.club:8000/live/erich/erich/9.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/Y1GPIkn.png",Lifetime
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y1GPIkn.png",Lifetime
 http://disfruta.club:8000/live/erich/erich/60.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/3v0K3jO.png",LOCOMOTION
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3v0K3jO.png",LOCOMOTION
 http://disfruta.club:8000/live/erich/erich/7486.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/46SkS3J.png",MAX UP
+#EXTINF:-1 tvg-logo="https://i.imgur.com/46SkS3J.png",MAX UP
 http://disfruta.club:8000/live/erich/erich/151.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/Y3xQimm.png",MAX Prime
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y3xQimm.png",MAX Prime
 http://disfruta.club:8000/live/erich/erich/498.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/jhWrHyG.png",Music Choice
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jhWrHyG.png",Music Choice
 http://disfruta.club:8000/live/erich/erich/6701.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/X2dwRkw.png",MTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X2dwRkw.png",MTV
 http://disfruta.club:8000/live/erich/erich/96.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/u5qwN2I.png",MTV Hits
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u5qwN2I.png",MTV Hits
 http://disfruta.club:8000/live/erich/erich/97.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/Gt0Lt1U.png",MTV Live HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Gt0Lt1U.png",MTV Live HD
 http://disfruta.club:8000/live/erich/erich/93.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/RKygMaf.png",Multimedios
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RKygMaf.png",Multimedios
 http://disfruta.club:8000/live/erich/erich/15.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/GVUbmox.png",NatGeo Wild
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GVUbmox.png",NatGeo Wild
 http://disfruta.club:8000/live/erich/erich/54.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/uFPejWz.png",National Geographic Channel
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uFPejWz.png",National Geographic Channel
 http://disfruta.club:8000/live/erich/erich/59.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/7iY4dLU.png",Nick Jr.
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7iY4dLU.png",Nick Jr.
 http://disfruta.club:8000/live/erich/erich/42.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/W8BkttK.png",Nick2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W8BkttK.png",Nick2
 http://disfruta.club:8000/live/erich/erich/45.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/cJyKxCv.png",Nickelodeon
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cJyKxCv.png",Nickelodeon
 http://disfruta.club:8000/live/erich/erich/46.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/ZVtTL8E.png",NickToons
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZVtTL8E.png",NickToons
 http://disfruta.club:8000/live/erich/erich/44.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/lCvWenv.png",Paramount
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lCvWenv.png",Paramount
 http://disfruta.club:8000/live/erich/erich/213.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/tmMqjZn.png",Ritmoson
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tmMqjZn.png",Ritmoson
 http://disfruta.club:8000/live/erich/erich/99.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/w9S2I1I.png",Sony
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w9S2I1I.png",Sony
 http://disfruta.club:8000/live/erich/erich/17.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/vEsuVw4.png",Space
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vEsuVw4.png",Space
 http://disfruta.club:8000/live/erich/erich/76.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/vEsuVw4.png",Space SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vEsuVw4.png",Space SD
 http://disfruta.club:8000/live/erich/erich/81.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/lzpOMIS.png",Studio Universal
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lzpOMIS.png",Studio Universal
 http://disfruta.club:8000/live/erich/erich/82.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/RuKdiLR.png",SyFy
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RuKdiLR.png",SyFy
 http://disfruta.club:8000/live/erich/erich/29.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/PBWVZrE.png",SUN CHANNEL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PBWVZrE.png",SUN CHANNEL
 http://disfruta.club:8000/live/erich/erich/7490.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/yIoz6bZ.png",TBS
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yIoz6bZ.png",TBS
 http://disfruta.club:8000/live/erich/erich/37.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/tbsyLvI.png",TCM
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tbsyLvI.png",TCM
 http://disfruta.club:8000/live/erich/erich/84.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/RSUpVHA.png",TDN HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RSUpVHA.png",TDN HD
 http://disfruta.club:8000/live/erich/erich/143.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/YKUf2Bk.png",Teleformula
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YKUf2Bk.png",Teleformula
 http://disfruta.club:8000/live/erich/erich/14.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/oOowI2r.png",Telehit
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oOowI2r.png",Telehit
 http://disfruta.club:8000/live/erich/erich/94.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/v412R4x.png",Telemundo
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v412R4x.png",Telemundo
 http://disfruta.club:8000/live/erich/erich/146.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/MjIzCYe.png",Telemundo Internacional
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MjIzCYe.png",Telemundo Internacional
 http://disfruta.club:8000/live/erich/erich/147.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/v412R4x.png",Telemundo USA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v412R4x.png",Telemundo USA
 http://disfruta.club:8000/live/erich/erich/1994.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/4lyODaL.png",TIIN
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4lyODaL.png",TIIN
 http://disfruta.club:8000/live/erich/erich/50.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/C0geVgW.png",TLC Discovery
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C0geVgW.png",TLC Discovery
 http://disfruta.club:8000/live/erich/erich/64.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/FA1rBKC.png",TLnovelas
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FA1rBKC.png",TLnovelas
 http://disfruta.club:8000/live/erich/erich/38.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/MoboiNB.png",TNT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MoboiNB.png",TNT
 http://disfruta.club:8000/live/erich/erich/71.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/cGFErtz.png",TNT Series
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cGFErtz.png",TNT Series
 http://disfruta.club:8000/live/erich/erich/32.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/P3N11t3.png",Tooncast
+#EXTINF:-1 tvg-logo="https://i.imgur.com/P3N11t3.png",Tooncast
 http://disfruta.club:8000/live/erich/erich/51.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/HT66CHR.png",TruTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HT66CHR.png",TruTV
 http://disfruta.club:8000/live/erich/erich/22.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/1NErpmG.png",UFC FIGHTING HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1NErpmG.png",UFC FIGHTING HD
 http://disfruta.club:8000/live/erich/erich/6249.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/KxZxjst.png",UFC FIGHTING FULL HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KxZxjst.png",UFC FIGHTING FULL HD
 http://disfruta.club:8000/live/erich/erich/116.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/bcBqF3H.png",UK Box Nation HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bcBqF3H.png",UK Box Nation HD
 http://disfruta.club:8000/live/erich/erich/3874.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/b8B8TAN.png",UK MTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b8B8TAN.png",UK MTV
 http://disfruta.club:8000/live/erich/erich/3829.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/HmrgJat.png",Unicable
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HmrgJat.png",Unicable
 http://disfruta.club:8000/live/erich/erich/24.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/7N8obGW.png",Univision Deportes
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7N8obGW.png",Univision Deportes
 http://disfruta.club:8000/live/erich/erich/148.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/AkgWmxq.png",Universal Channel
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AkgWmxq.png",Universal Channel
 http://disfruta.club:8000/live/erich/erich/19.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/AkgWmxq.png",Universal Channel
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AkgWmxq.png",Universal Channel
 http://disfruta.club:8000/live/erich/erich/28.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/B5qHotQ.png",Univision
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B5qHotQ.png",Univision
 http://disfruta.club:8000/live/erich/erich/149.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/hSLAARF.png",Univision Deportes
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hSLAARF.png",Univision Deportes
 http://disfruta.club:8000/live/erich/erich/259.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/RSUpVHA.png",Univision TDN
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RSUpVHA.png",Univision TDN
 http://disfruta.club:8000/live/erich/erich/145.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/RySM58P.png",VH1 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RySM58P.png",VH1 HD
 http://disfruta.club:8000/live/erich/erich/95.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/GWIKDho.png",VH1 Classics
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GWIKDho.png",VH1 Classics
 http://disfruta.club:8000/live/erich/erich/98.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/ZKZSeR9.png",Warner Channel
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZKZSeR9.png",Warner Channel
 http://disfruta.club:8000/live/erich/erich/18.ts
 
-#EXTINF:-1 tv-logo="https://i.imgur.com/NOPugEr.png",[COLOR gold]               SOLO EVENTOS[/COLOR]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NOPugEr.png",[COLOR gold]               SOLO EVENTOS[/COLOR]
 http://disfruta.club:8000
-#EXTINF:-1 tv-logo="https://i.imgur.com/ddMREsr.png",PPV 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ddMREsr.png",PPV 1
 http://disfruta.club:8000/live/erich/erich/1482.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/ddMREsr.png",PPV 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ddMREsr.png",PPV 2
 http://disfruta.club:8000/live/erich/erich/1483.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/ddMREsr.png",PPV 3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ddMREsr.png",PPV 3
 http://disfruta.club:8000/live/erich/erich/1484.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/ddMREsr.png",PPV 4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ddMREsr.png",PPV 4
 http://disfruta.club:8000/live/erich/erich/1485.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/ddMREsr.png",PPV 5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ddMREsr.png",PPV 5
 http://disfruta.club:8000/live/erich/erich/1486.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/ddMREsr.png",PPV 6
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ddMREsr.png",PPV 6
 http://disfruta.club:8000/live/erich/erich/1487.ts
 
-#EXTINF:-1 tv-logo="https://i.imgur.com/21WUDlW.png",[COLOR gold]             CABLE LATINO  (720)[/COLOR]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/21WUDlW.png",[COLOR gold]             CABLE LATINO  (720)[/COLOR]
 http://disfruta.club:8000
-#EXTINF:-1 tv-logo="https://i.imgur.com/1ULZbQY.png",A&E HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1ULZbQY.png",A&E HD
 http://disfruta.club:8000/live/erich/erich/3198.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/5XOaDNw.png",AMC HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5XOaDNw.png",AMC HD
 http://disfruta.club:8000/live/erich/erich/3197.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/9lEU0RC.png",AXN HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9lEU0RC.png",AXN HD
 http://disfruta.club:8000/live/erich/erich/3196.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/gWCsh5F.png",Cinecanal HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gWCsh5F.png",Cinecanal HD
 http://disfruta.club:8000/live/erich/erich/3194.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/djPbnNO.png",Cinemax HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/djPbnNO.png",Cinemax HD
 http://disfruta.club:8000/live/erich/erich/3193.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/oouXOh4.png",De Pelicula HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oouXOh4.png",De Pelicula HD
 http://disfruta.club:8000/live/erich/erich/3192.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/E9Fy2uP.png",Discovery Kids HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E9Fy2uP.png",Discovery Kids HD
 http://disfruta.club:8000/live/erich/erich/3191.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/V3xvb0k.png",Discovery Teather HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V3xvb0k.png",Discovery Teather HD
 http://disfruta.club:8000/live/erich/erich/3190.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/C0geVgW.png",Disvovery TLC HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C0geVgW.png",Disvovery TLC HD
 http://disfruta.club:8000/live/erich/erich/3189.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/Bx0J3oH.png",Discovery Turbo HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Bx0J3oH.png",Discovery Turbo HD
 http://disfruta.club:8000/live/erich/erich/3188.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/nSGxYTB.png",DISNEY JUNIOR HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nSGxYTB.png",DISNEY JUNIOR HD
 http://disfruta.club:8000/live/erich/erich/2233.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/oU6YzCu.png",Disney Channel HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oU6YzCu.png",Disney Channel HD
 http://disfruta.club:8000/live/erich/erich/3187.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/1OqNCMJ.png",Disney XD HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1OqNCMJ.png",Disney XD HD
 http://disfruta.club:8000/live/erich/erich/3186.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/w0vbxHi.png",ESPN 2 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w0vbxHi.png",ESPN 2 HD
 http://disfruta.club:8000/live/erich/erich/2216.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/lv7vh9H.png",ESPN 3 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lv7vh9H.png",ESPN 3 HD
 http://disfruta.club:8000/live/erich/erich/2214.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/oCeCwTP.png",ESPN HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oCeCwTP.png",ESPN HD
 http://disfruta.club:8000/live/erich/erich/2215.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/UTUp3ju.png",Fox HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UTUp3ju.png",Fox HD
 http://disfruta.club:8000/live/erich/erich/3183.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/GfneBrGg.png",Fox Action HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GfneBrGg.png",Fox Action HD
 http://disfruta.club:8000/live/erich/erich/3185.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/CMYyy6x.png",FOX COMEDY HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CMYyy6x.png",FOX COMEDY HD
 http://disfruta.club:8000/live/erich/erich/2234.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/W6Suxi7.png",Fox Cinema HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W6Suxi7.png",Fox Cinema HD
 http://disfruta.club:8000/live/erich/erich/3184.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/lV0lBXh.png",FOX FAMILY HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lV0lBXh.png",FOX FAMILY HD
 http://disfruta.club:8000/live/erich/erich/2235.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/0ygKQLe.png",Fox Movies HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0ygKQLe.png",Fox Movies HD
 http://disfruta.club:8000/live/erich/erich/3182.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/qQcRHSX.png",Fox Series HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qQcRHSX.png",Fox Series HD
 http://disfruta.club:8000/live/erich/erich/3181.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/1LObw3e.png",FX HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1LObw3e.png",FX HD
 http://disfruta.club:8000/live/erich/erich/3180.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/V2R88KX.png",GOLDEN PREMIER HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V2R88KX.png",GOLDEN PREMIER HD
 http://disfruta.club:8000/live/erich/erich/7502.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/kWaM5od.png",Golden Golden Plus HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kWaM5od.png",Golden Golden Plus HD
 http://disfruta.club:8000/live/erich/erich/3179.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/IPb8Kkg.png",History HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IPb8Kkg.png",History HD
 http://disfruta.club:8000/live/erich/erich/3178.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/dHjr3lG.png",HBO 2 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dHjr3lG.png",HBO 2 HD
 http://disfruta.club:8000/live/erich/erich/2236.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/IviSU1q.png",HBO FAMILY HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IviSU1q.png",HBO FAMILY HD
 http://disfruta.club:8000/live/erich/erich/2237.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/1PlpN3S.png",HBO HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1PlpN3S.png",HBO HD
 http://disfruta.club:8000/live/erich/erich/2238.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/T0MqNBw.png",HBO PLUS HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/T0MqNBw.png",HBO PLUS HD
 http://disfruta.club:8000/live/erich/erich/2239.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/oS8FgXx.png",HBO SIGNATURE HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oS8FgXx.png",HBO SIGNATURE HD
 http://disfruta.club:8000/live/erich/erich/2240.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/7nXBGeM.jpg",MAX PRIME HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7nXBGeM.jpg",MAX PRIME HD
 http://disfruta.club:8000/live/erich/erich/2241.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/uAmeuF0.png",NatGeo Mundo HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uAmeuF0.png",NatGeo Mundo HD
 http://disfruta.club:8000/live/erich/erich/7477.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/GVUbmox.png",NatGeo Wild HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GVUbmox.png",NatGeo Wild HD
 http://disfruta.club:8000/live/erich/erich/3176.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/W8BkttK.png",NICK 2 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W8BkttK.png",NICK 2 HD
 http://disfruta.club:8000/live/erich/erich/2242.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/cJyKxCv.png",Nickelodeon HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cJyKxCv.png",Nickelodeon HD
 http://disfruta.club:8000/live/erich/erich/3175.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/w9S2I1I.png",Sony HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w9S2I1I.png",Sony HD
 http://disfruta.club:8000/live/erich/erich/3174.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/vEsuVw4.png",Space HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vEsuVw4.png",Space HD
 http://disfruta.club:8000/live/erich/erich/3173.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/MoboiNB.png",TNT HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MoboiNB.png",TNT HD
 http://disfruta.club:8000/live/erich/erich/3172.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/HT66CHR.png",TruTv HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HT66CHR.png",TruTv HD
 http://disfruta.club:8000/live/erich/erich/3170.ts
 
 
-#EXTINF:-1 tv-logo="https://i.imgur.com/21WUDlW.png",[COLOR gold]              CABLE LATINO  (1080)[/COLOR]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/21WUDlW.png",[COLOR gold]              CABLE LATINO  (1080)[/COLOR]
 http://disfruta.club:8000
-#EXTINF:-1 tv-logo="https://i.imgur.com/1ULZbQY.png",A&E FULL HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1ULZbQY.png",A&E FULL HD
 http://disfruta.club:8000/live/erich/erich/4200.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/5XOaDNw.png",AMC FULL HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5XOaDNw.png",AMC FULL HD
 http://disfruta.club:8000/live/erich/erich/4152.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/YcMA5So.png",Animal Planet FULL HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YcMA5So.png",Animal Planet FULL HD
 http://disfruta.club:8000/live/erich/erich/4170.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/3dEasmu.png",AXN FULL HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3dEasmu.png",AXN FULL HD
 http://disfruta.club:8000/live/erich/erich/4199.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/tphokch.png",Az Cinema FULL HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tphokch.png",Az Cinema FULL HD
 http://disfruta.club:8000/live/erich/erich/4151.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/XpuEhmY.png",Az Clic FULL HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XpuEhmY.png",Az Clic FULL HD
 http://disfruta.club:8000/live/erich/erich/4150.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/qxdouht.png",Az Corazón FULL HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qxdouht.png",Az Corazón FULL HD
 http://disfruta.club:8000/live/erich/erich/4211.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/uuZEzUq.png",Az Mundo FULL HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uuZEzUq.png",Az Mundo FULL HD
 http://disfruta.club:8000/live/erich/erich/4182.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/QhX7btt.png",Azteca 13 FULL HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QhX7btt.png",Azteca 13 FULL HD
 http://disfruta.club:8000/live/erich/erich/4122.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/IUbEq81.png",Azteca 7 FULL HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IUbEq81.png",Azteca 7 FULL HD
 http://disfruta.club:8000/live/erich/erich/4210.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/5NlW6ZU.png",Boomerang FULL HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5NlW6ZU.png",Boomerang FULL HD
 http://disfruta.club:8000/live/erich/erich/4176.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/D9uCtMj.png",Canal 5 FULL HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D9uCtMj.png",Canal 5 FULL HD
 http://disfruta.club:8000/live/erich/erich/4209.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/q9LGwrt.png",Cartoon Network FULL HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q9LGwrt.png",Cartoon Network FULL HD
 http://disfruta.club:8000/live/erich/erich/4174.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/gWCsh5F.png",Cinecanal FULL HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gWCsh5F.png",Cinecanal FULL HD
 http://disfruta.club:8000/live/erich/erich/4169.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/djPbnNO.png",CINEMAX FULL HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/djPbnNO.png",CINEMAX FULL HD
 http://disfruta.club:8000/live/erich/erich/2212.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/nxyS9fA.png",Comedy Central FULL HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nxyS9fA.png",Comedy Central FULL HD
 http://disfruta.club:8000/live/erich/erich/4198.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/6oUwBaP.png",Discovery Channel FULL HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6oUwBaP.png",Discovery Channel FULL HD
 http://disfruta.club:8000/live/erich/erich/4168.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/wfr6WDB.png",Discovery Home&Health FULL HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wfr6WDB.png",Discovery Home&Health FULL HD
 http://disfruta.club:8000/live/erich/erich/4167.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/oKrOeYJ.png",Discovery Investigation FULL HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oKrOeYJ.png",Discovery Investigation FULL HD
 http://disfruta.club:8000/live/erich/erich/4166.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/E9Fy2uP.png",Discovery Kids FULL HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E9Fy2uP.png",Discovery Kids FULL HD
 http://disfruta.club:8000/live/erich/erich/4165.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/V3xvb0k.png",Discovery Theater FULL HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V3xvb0k.png",Discovery Theater FULL HD
 http://disfruta.club:8000/live/erich/erich/4164.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/C0geVgW.png",Discovery TLC FULL HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C0geVgW.png",Discovery TLC FULL HD
 http://disfruta.club:8000/live/erich/erich/4163.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/Bx0J3oH.png",Discovery Turbo FULL HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Bx0J3oH.png",Discovery Turbo FULL HD
 http://disfruta.club:8000/live/erich/erich/4162.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/U6KxQHT.png",Discovery World FULL HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U6KxQHT.png",Discovery World FULL HD
 http://disfruta.club:8000/live/erich/erich/4161.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/NTW2KlX.png",Distrito Comedia FULL HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NTW2KlX.png",Distrito Comedia FULL HD
 http://disfruta.club:8000/live/erich/erich/4197.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/uW1nULI.png",E! FULL HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uW1nULI.png",E! FULL HD
 http://disfruta.club:8000/live/erich/erich/4196.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/he81kss.png",El Gourmet FULL HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/he81kss.png",El Gourmet FULL HD
 http://disfruta.club:8000/live/erich/erich/4195.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/oCeCwTP.png",ESPN FULL HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oCeCwTP.png",ESPN FULL HD
 http://disfruta.club:8000/live/erich/erich/4157.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/ALsLWjv.png",ESPN Plus FULL HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ALsLWjv.png",ESPN Plus FULL HD
 http://disfruta.club:8000/live/erich/erich/4156.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/UTUp3ju.png",FOX FULL HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UTUp3ju.png",FOX FULL HD
 http://disfruta.club:8000/live/erich/erich/4217.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/KuUF3xR.png",Fox Life FULL HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KuUF3xR.png",Fox Life FULL HD
 http://disfruta.club:8000/live/erich/erich/4194.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/GfneBrGg.png",Fox Premium Action FULL HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GfneBrGg.png",Fox Premium Action FULL HD
 http://disfruta.club:8000/live/erich/erich/4219.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/0ygKQLe.png",Fox Premium Movies FULL HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0ygKQLe.png",Fox Premium Movies FULL HD
 http://disfruta.club:8000/live/erich/erich/4216.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/qQcRHSX.png",Fox Premium Series FULL HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qQcRHSX.png",Fox Premium Series FULL HD
 http://disfruta.club:8000/live/erich/erich/4218.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/sGxVptH.png",Fox Sports FULL HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sGxVptH.png",Fox Sports FULL HD
 http://disfruta.club:8000/live/erich/erich/4215.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/ceDPFGh.png",Fox Sports 2 FULL HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ceDPFGh.png",Fox Sports 2 FULL HD
 http://disfruta.club:8000/live/erich/erich/4214.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/nK8yBFR.png",Fox Sports 3 FULL HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nK8yBFR.png",Fox Sports 3 FULL HD
 http://disfruta.club:8000/live/erich/erich/4213.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/1LObw3e.png",FX FULL HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1LObw3e.png",FX FULL HD
 http://disfruta.club:8000/live/erich/erich/4193.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/aqXFYAF.png",FXM FULL HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aqXFYAF.png",FXM FULL HD
 http://disfruta.club:8000/live/erich/erich/4128.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/ATyMgzc.png",Gala TV FULL HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ATyMgzc.png",Gala TV FULL HD
 http://disfruta.club:8000/live/erich/erich/4206.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/kWaM5od.png",Golden Plus HD FULL HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kWaM5od.png",Golden Plus HD FULL HD
 http://disfruta.club:8000/live/erich/erich/4147.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/IPb8Kkg.png",History FULL HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IPb8Kkg.png",History FULL HD
 http://disfruta.club:8000/live/erich/erich/4145.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/jxBqYsQ.png",Hola TV FULL HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jxBqYsQ.png",Hola TV FULL HD
 http://disfruta.club:8000/live/erich/erich/4191.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/vKnKlDV.png",Las Estrellas FULL HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vKnKlDV.png",Las Estrellas FULL HD
 http://disfruta.club:8000/live/erich/erich/4207.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/Y1GPIkn.png",Lifetime FULL HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y1GPIkn.png",Lifetime FULL HD
 http://disfruta.club:8000/live/erich/erich/4160.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/nEfZxAI.png",Más Chic FULL HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nEfZxAI.png",Más Chic FULL HD
 http://disfruta.club:8000/live/erich/erich/4190.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/X2dwRkw.png",MTV FULL HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X2dwRkw.png",MTV FULL HD
 http://disfruta.club:8000/live/erich/erich/4154.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/Gt0Lt1U.png",MTV Live FULL HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Gt0Lt1U.png",MTV Live FULL HD
 http://disfruta.club:8000/live/erich/erich/4142.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/RKygMaf.png",Multimedios FULL HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RKygMaf.png",Multimedios FULL HD
 http://disfruta.club:8000/live/erich/erich/4204.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/HUPHKjP.png",Multimedios Plus FULL HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HUPHKjP.png",Multimedios Plus FULL HD
 http://disfruta.club:8000/live/erich/erich/4203.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/Crk6Vwb.png",Natgeo Kids FULL HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Crk6Vwb.png",Natgeo Kids FULL HD
 http://disfruta.club:8000/live/erich/erich/4159.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/GVUbmox.png",Natgeo Wild FULL HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GVUbmox.png",Natgeo Wild FULL HD
 http://disfruta.club:8000/live/erich/erich/4158.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/W8BkttK.png",Nick 2 FULL HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W8BkttK.png",Nick 2 FULL HD
 http://disfruta.club:8000/live/erich/erich/4173.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/cJyKxCv.png",Nickelodeon FULL HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cJyKxCv.png",Nickelodeon FULL HD
 http://disfruta.club:8000/live/erich/erich/4179.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/lCvWenv.png",Paramount FULL HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lCvWenv.png",Paramount FULL HD
 http://disfruta.club:8000/live/erich/erich/4172.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/bqacwI8.png",Px Sports FULL HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bqacwI8.png",Px Sports FULL HD
 http://disfruta.club:8000/live/erich/erich/4141.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/w9S2I1I.png",Sony FULL HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w9S2I1I.png",Sony FULL HD
 http://disfruta.club:8000/live/erich/erich/4189.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/vEsuVw4.png",Space FULL HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vEsuVw4.png",Space FULL HD
 http://disfruta.club:8000/live/erich/erich/4139.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/lzpOMIS.png",Studio Universal FULL HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lzpOMIS.png",Studio Universal FULL HD
 http://disfruta.club:8000/live/erich/erich/4138.ts
-#EXTINF:-1 tv-logo="",Sundance FULL HD
+#EXTINF:-1 tvg-logo="",Sundance FULL HD
 http://disfruta.club:8000/live/erich/erich/4137.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/a104pri.png",Syfy FULL HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/a104pri.png",Syfy FULL HD
 http://disfruta.club:8000/live/erich/erich/4188.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/oOowI2r.png",Telehit FULL HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oOowI2r.png",Telehit FULL HD
 http://disfruta.club:8000/live/erich/erich/4136.ts
-#EXTINF:-1 tv-logo="",Televisa MTY FULL HD
+#EXTINF:-1 tvg-logo="",Televisa MTY FULL HD
 http://disfruta.club:8000/live/erich/erich/4171.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/MoboiNB.png",TNT FULL HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MoboiNB.png",TNT FULL HD
 http://disfruta.club:8000/live/erich/erich/4135.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/cGFErtz.png",TNT Series FULL HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cGFErtz.png",TNT Series FULL HD
 http://disfruta.club:8000/live/erich/erich/4187.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/HT66CHR.png",TruTV FULL HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HT66CHR.png",TruTV FULL HD
 http://disfruta.club:8000/live/erich/erich/4186.ts
-#EXTINF:-1 tv-logo="",TVC Deportes FULL HD
+#EXTINF:-1 tvg-logo="",TVC Deportes FULL HD
 http://disfruta.club:8000/live/erich/erich/4134.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/Ij0I66t.png",TVC FULL HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ij0I66t.png",TVC FULL HD
 http://disfruta.club:8000/live/erich/erich/4133.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/HmrgJat.png",Unicable FULL HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HmrgJat.png",Unicable FULL HD
 http://disfruta.club:8000/live/erich/erich/4185.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/AkgWmxq.png",UNIVERSAL FULL HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AkgWmxq.png",UNIVERSAL FULL HD
 http://disfruta.club:8000/live/erich/erich/4153.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/AkgWmxq.png",Universal Channel FULL HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AkgWmxq.png",Universal Channel FULL HD
 http://disfruta.club:8000/live/erich/erich/4184.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/RySM58P.png",VH1 HD FULL HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RySM58P.png",VH1 HD FULL HD
 http://disfruta.club:8000/live/erich/erich/4132.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/ZKZSeR9.png",Warner Channel FULL HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZKZSeR9.png",Warner Channel FULL HD
 http://disfruta.club:8000/live/erich/erich/4183.ts
 
-#EXTINF:-1 tv-logo="https://i.imgur.com/FuJnOj6.png",[COLOR gold]                        ESPAÑA[/COLOR]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FuJnOj6.png",[COLOR gold]                        ESPAÑA[/COLOR]
 http://disfruta.club:8000
-#EXTINF:-1 tv-logo="https://i.imgur.com/UOOTX6w.png",ES: ANDALUCIA TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UOOTX6w.png",ES: ANDALUCIA TV
 http://disfruta.club:8000/live/erich/erich/315.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/Bu0pMwz.png",ES: LA 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Bu0pMwz.png",ES: LA 1
 http://disfruta.club:8000/live/erich/erich/337.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/Bu0pMwz.png",ES: LA 1 HD op2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Bu0pMwz.png",ES: LA 1 HD op2
 http://disfruta.club:8000/live/erich/erich/3578.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/19kCxUq.png",ES: LA 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/19kCxUq.png",ES: LA 2
 http://disfruta.club:8000/live/erich/erich/336.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/YQw0Cnt.png",ES: 24 Horas
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YQw0Cnt.png",ES: 24 Horas
 http://disfruta.club:8000/live/erich/erich/7454.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/WdLUyN4.png",ES: #O
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WdLUyN4.png",ES: #O
 http://disfruta.club:8000/live/erich/erich/349.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/1ULZbQY.png",ES: A&E
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1ULZbQY.png",ES: A&E
 http://disfruta.club:8000/live/erich/erich/316.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/5XOaDNw.png",ES: AMC
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5XOaDNw.png",ES: AMC
 http://disfruta.club:8000/live/erich/erich/348.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/U6RS980.png",ES: Antena 3 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U6RS980.png",ES: Antena 3 HD
 http://disfruta.club:8000/live/erich/erich/3579.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/sO79RLz.png",ES: AXN HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sO79RLz.png",ES: AXN HD
 http://disfruta.club:8000/live/erich/erich/347.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/9lEU0RC.png",ES: AXN WHITE
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9lEU0RC.png",ES: AXN WHITE
 http://disfruta.club:8000/live/erich/erich/346.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/C12q67U.png",ES: BARCA TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C12q67U.png",ES: BARCA TV
 http://disfruta.club:8000/live/erich/erich/882.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/YazEB1y.png",ES: Be Mad TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YazEB1y.png",ES: Be Mad TV
 http://disfruta.club:8000/live/erich/erich/7279.ts
-#EXTINF:-1 tv-logo="",ES: B31N La Liga HD
+#EXTINF:-1 tvg-logo="",ES: B31N La Liga HD
 http://disfruta.club:8000/live/erich/erich/264.ts
-#EXTINF:-1 tv-logo="",ES: B31N Sp0rts SPAIN HD
+#EXTINF:-1 tvg-logo="",ES: B31N Sp0rts SPAIN HD
 http://disfruta.club:8000/live/erich/erich/160.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/5xfJzpd.png",ES: BOING
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5xfJzpd.png",ES: BOING
 http://disfruta.club:8000/live/erich/erich/345.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/LKdYqWA.png",ES: CALLE 13
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LKdYqWA.png",ES: CALLE 13
 http://disfruta.club:8000/live/erich/erich/344.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/rNV3vuk.png",ES: COCINA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rNV3vuk.png",ES: COCINA
 http://disfruta.club:8000/live/erich/erich/343.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/VyBDuKi.png",ES: COMEDY CENTRAL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VyBDuKi.png",ES: COMEDY CENTRAL
 http://disfruta.club:8000/live/erich/erich/342.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/wrgNpc2.jpg",ES: COSMO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wrgNpc2.jpg",ES: COSMO
 http://disfruta.club:8000/live/erich/erich/341.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/9X8YP92.png",ES: CRIMEN INVESTIGACION
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9X8YP92.png",ES: CRIMEN INVESTIGACION
 http://disfruta.club:8000/live/erich/erich/313.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/H3Whb8H.png",ES: CUATRO HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H3Whb8H.png",ES: CUATRO HD
 http://disfruta.club:8000/live/erich/erich/340.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/6oUwBaP.png",ES: DISCOVERY CHANNEL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6oUwBaP.png",ES: DISCOVERY CHANNEL
 http://disfruta.club:8000/live/erich/erich/314.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/oU6YzCu.png",ES: DISNEY CHANNEL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oU6YzCu.png",ES: DISNEY CHANNEL
 http://disfruta.club:8000/live/erich/erich/312.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/nSGxYTB.png",ES: DISNEY JUNIOR
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nSGxYTB.png",ES: DISNEY JUNIOR
 http://disfruta.club:8000/live/erich/erich/311.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/1OqNCMJ.png",ES: DISNEY XD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1OqNCMJ.png",ES: DISNEY XD
 http://disfruta.club:8000/live/erich/erich/310.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/zxxbQ2L.png",ES: DIVINITY
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zxxbQ2L.png",ES: DIVINITY
 http://disfruta.club:8000/live/erich/erich/309.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/hqCo7OM.png",ES: ENERGY
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hqCo7OM.png",ES: ENERGY
 http://disfruta.club:8000/live/erich/erich/308.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/60c7qSm.jpg",ES: FDF
+#EXTINF:-1 tvg-logo="https://i.imgur.com/60c7qSm.jpg",ES: FDF
 http://disfruta.club:8000/live/erich/erich/307.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/UTUp3ju.png",ES: FOX
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UTUp3ju.png",ES: FOX
 http://disfruta.club:8000/live/erich/erich/306.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/KuUF3xR.png",ES: FOX LIFE
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KuUF3xR.png",ES: FOX LIFE
 http://disfruta.club:8000/live/erich/erich/339.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/vB7pfSY.png",ES: GOL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vB7pfSY.png",ES: GOL
 http://disfruta.club:8000/live/erich/erich/265.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/lfP46sV.png",ES: HISTORIA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lfP46sV.png",ES: HISTORIA
 http://disfruta.club:8000/live/erich/erich/305.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/R7ut3Hi.png",ES: HOLLYWOOD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R7ut3Hi.png",ES: HOLLYWOOD
 http://disfruta.club:8000/live/erich/erich/338.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/X4WpO2V.png",ES: La Sexta
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X4WpO2V.png",ES: La Sexta
 http://disfruta.club:8000/live/erich/erich/188.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/X4WpO2V.png",ES: LA SEXTA HD op2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X4WpO2V.png",ES: LA SEXTA HD op2
 http://disfruta.club:8000/live/erich/erich/3581.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/SYhFCsT.png",ES: LaLigaTV BAR
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SYhFCsT.png",ES: LaLigaTV BAR
 http://disfruta.club:8000/live/erich/erich/161.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/Kb2g3Ih.png",ES: Mega HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Kb2g3Ih.png",ES: Mega HD
 http://disfruta.club:8000/live/erich/erich/263.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/Kb2g3Ih.png",ES: MEGA HD op2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Kb2g3Ih.png",ES: MEGA HD op2
 http://disfruta.club:8000/live/erich/erich/3582.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/tZgvMpk.png",ES: MOVISTAR  DEPORTES 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tZgvMpk.png",ES: MOVISTAR  DEPORTES 1
 http://disfruta.club:8000/live/erich/erich/159.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/HZHyNMq.png",ES: MOVISTAR ACCION
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HZHyNMq.png",ES: MOVISTAR ACCION
 http://disfruta.club:8000/live/erich/erich/156.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/t8sPSfR.png",ES: MOVISTAR COMEDIA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t8sPSfR.png",ES: MOVISTAR COMEDIA
 http://disfruta.club:8000/live/erich/erich/335.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/hh1UM2t.png",ES: MOVISTAR DCINE
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hh1UM2t.png",ES: MOVISTAR DCINE
 http://disfruta.club:8000/live/erich/erich/334.ts
-#EXTINF:-1 tv-logo="http://verdirectotv.com/logos/deportes2.png",ES: MOVISTAR DEPORTES 2
+#EXTINF:-1 tvg-logo="http://verdirectotv.com/logos/deportes2.png",ES: MOVISTAR DEPORTES 2
 http://disfruta.club:8000/live/erich/erich/333.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/hRGKpGY.png",ES: MOVISTAR ESTRENOS
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hRGKpGY.png",ES: MOVISTAR ESTRENOS
 http://disfruta.club:8000/live/erich/erich/332.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/qgJ1JU3.png",ES: Movistar F1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qgJ1JU3.png",ES: Movistar F1
 http://disfruta.club:8000/live/erich/erich/189.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/DuV8nja.png",ES: MOVISTAR FUTBOL HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DuV8nja.png",ES: MOVISTAR FUTBOL HD
 http://disfruta.club:8000/live/erich/erich/158.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/drdJwlz.png",ES: MOVISTAR GOLF
+#EXTINF:-1 tvg-logo="https://i.imgur.com/drdJwlz.png",ES: MOVISTAR GOLF
 http://disfruta.club:8000/live/erich/erich/157.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/NSRdxjI.png",ES: MOVISTAR MOTO GP
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NSRdxjI.png",ES: MOVISTAR MOTO GP
 http://disfruta.club:8000/live/erich/erich/331.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/7PQPDFd.png",ES: MOVISTAR SERIES
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7PQPDFd.png",ES: MOVISTAR SERIES
 http://disfruta.club:8000/live/erich/erich/330.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/uyV7Z6R.png",ES: MOVISTAR SERIES XTRA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uyV7Z6R.png",ES: MOVISTAR SERIES XTRA
 http://disfruta.club:8000/live/erich/erich/329.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/v1AwmFw.png",ES: MOVISTAR XTRA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v1AwmFw.png",ES: MOVISTAR XTRA
 http://disfruta.club:8000/live/erich/erich/328.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/uFPejWz.png",ES: NAT GEO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uFPejWz.png",ES: NAT GEO
 http://disfruta.club:8000/live/erich/erich/327.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/uFPejWz.png",ES: NAT GEO WILD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uFPejWz.png",ES: NAT GEO WILD
 http://disfruta.club:8000/live/erich/erich/326.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/SRt4spd.gif",ES: NEOX
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SRt4spd.gif",ES: NEOX
 http://disfruta.club:8000/live/erich/erich/300.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/cJyKxCv.png",ES: NICKELODEON
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cJyKxCv.png",ES: NICKELODEON
 http://disfruta.club:8000/live/erich/erich/325.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/zpjz9zH.png",ES: NON STOP PEOPLE
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zpjz9zH.png",ES: NON STOP PEOPLE
 http://disfruta.club:8000/live/erich/erich/299.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/FwW4BGM.png",ES: NOVA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FwW4BGM.png",ES: NOVA
 http://disfruta.club:8000/live/erich/erich/324.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/P9J2skQ.png",ES: ODISEA HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/P9J2skQ.png",ES: ODISEA HD
 http://disfruta.club:8000/live/erich/erich/298.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/fqvuQgK.png",ES: PANDA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fqvuQgK.png",ES: PANDA
 http://disfruta.club:8000/live/erich/erich/297.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/lCvWenv.png",ES: PARAMOUNT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lCvWenv.png",ES: PARAMOUNT
 http://disfruta.club:8000/live/erich/erich/296.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/6Hg2uzX.png",ES: Real Madrid TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6Hg2uzX.png",ES: Real Madrid TV
 http://disfruta.club:8000/live/erich/erich/183.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/a104pri.png",ES: SYFY
+#EXTINF:-1 tvg-logo="https://i.imgur.com/a104pri.png",ES: SYFY
 http://disfruta.club:8000/live/erich/erich/323.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/tbsyLvI.png",ES: TCM
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tbsyLvI.png",ES: TCM
 http://disfruta.club:8000/live/erich/erich/322.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/05pztTN.png",ES: TELECINCO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/05pztTN.png",ES: TELECINCO
 http://disfruta.club:8000/live/erich/erich/321.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/05pztTN.png",ES: TELECINCO HD op2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/05pztTN.png",ES: TELECINCO HD op2
 http://disfruta.club:8000/live/erich/erich/3580.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/MoboiNB.png",ES: TNT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MoboiNB.png",ES: TNT
 http://disfruta.club:8000/live/erich/erich/319.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/RPFF9tB.jpg",ES: TOROSTV HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RPFF9tB.jpg",ES: TOROSTV HD
 http://disfruta.club:8000/live/erich/erich/155.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/2SeglXl.png",ES: VIAJAR
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2SeglXl.png",ES: VIAJAR
 http://disfruta.club:8000/live/erich/erich/318.ts
 
 
-#EXTINF:-1 tv-logo="https://i.imgur.com/OoncqTu.png",[COLOR gold]                       ARGENTINA[/COLOR]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OoncqTu.png",[COLOR gold]                       ARGENTINA[/COLOR]
 http://disfruta.club
-#EXTINF:-1 tv-logo="https://i.imgur.com/grIzI5K.png",AR: America TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/grIzI5K.png",AR: America TV
 http://disfruta.club:8000/live/erich/erich/136.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/9UAhHC0.jpg",AR: C5N
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9UAhHC0.jpg",AR: C5N
 http://disfruta.club:8000/live/erich/erich/254.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/u1eJPa5.png",AR: Canal 26
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u1eJPa5.png",AR: Canal 26
 http://disfruta.club:8000/live/erich/erich/255.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/Hv4kimk.png",AR: Canal 9
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Hv4kimk.png",AR: Canal 9
 http://disfruta.club:8000/live/erich/erich/273.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/X8PRJDg.png",AR: El Trece
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X8PRJDg.png",AR: El Trece
 http://disfruta.club:8000/live/erich/erich/252.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/RW5JYj7.png",AR: TELEFE HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RW5JYj7.png",AR: TELEFE HD
 http://disfruta.club:8000/live/erich/erich/117.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/BVHHNlu.png",AR: TN
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BVHHNlu.png",AR: TN
 http://disfruta.club:8000/live/erich/erich/253.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/RMgVph0.png",AR: TV Publica
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RMgVph0.png",AR: TV Publica
 http://disfruta.club:8000/live/erich/erich/134.ts
-#EXTINF:-1 tv-logo="",AR: FOX Sports Premium HD
+#EXTINF:-1 tvg-logo="",AR: FOX Sports Premium HD
 http://disfruta.club:8000/live/erich/erich/3561.ts
-#EXTINF:-1 tv-logo="",AR: FOX Sports Premium FULL HD
+#EXTINF:-1 tvg-logo="",AR: FOX Sports Premium FULL HD
 http://disfruta.club:8000/live/erich/erich/3562.ts
-#EXTINF:-1 tv-logo="",AR: TNT Sports HD
+#EXTINF:-1 tvg-logo="",AR: TNT Sports HD
 http://disfruta.club:8000/live/erich/erich/3213.ts
-#EXTINF:-1 tv-logo="",AR: TNT Sports Full HD
+#EXTINF:-1 tvg-logo="",AR: TNT Sports Full HD
 http://disfruta.club:8000/live/erich/erich/3563.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/Y3i4nUM.png",AR: TYC Sports
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y3i4nUM.png",AR: TYC Sports
 http://disfruta.club:8000/live/erich/erich/232.ts
 
-#EXTINF:-1 tv-logo="",[COLOR gold]                         BOLLIVIA[/COLOR]
+#EXTINF:-1 tvg-logo="",[COLOR gold]                         BOLLIVIA[/COLOR]
 http://disfruta.club
-#EXTINF:-1 tv-logo="https://i.imgur.com/ebt0FEo.png",BO: ATB
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ebt0FEo.png",BO: ATB
 http://disfruta.club:8000/live/erich/erich/4261.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/vMHa5yN.png",BO: Bolivia TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vMHa5yN.png",BO: Bolivia TV
 http://disfruta.club:8000/live/erich/erich/4256.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/uXRmbYF.png",BO: Bolivision
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uXRmbYF.png",BO: Bolivision
 http://disfruta.club:8000/live/erich/erich/4257.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/cI301qn.png",BO: Bolivia TV Deportes
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cI301qn.png",BO: Bolivia TV Deportes
 http://disfruta.club:8000/live/erich/erich/4262.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/e0v9pwe.png",BO: Pat La Paz
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e0v9pwe.png",BO: Pat La Paz
 http://disfruta.club:8000/live/erich/erich/4258.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/e0v9pwe.png",BO: Pat Santa Cruz
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e0v9pwe.png",BO: Pat Santa Cruz
 http://disfruta.club:8000/live/erich/erich/4259.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/xCaSzm7.png",BO: Red UNO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xCaSzm7.png",BO: Red UNO
 http://disfruta.club:8000/live/erich/erich/4260.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/7fQg23b.jpg",BO: Unitel
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7fQg23b.jpg",BO: Unitel
 http://disfruta.club:8000/live/erich/erich/4255.ts
 
-#EXTINF:-1 tv-logo="https://i.imgur.com/wwVbJdt.png",[COLOR gold]                     CHILE[/COLOR]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wwVbJdt.png",[COLOR gold]                     CHILE[/COLOR]
 http://disfruta.club
-#EXTINF:-1 tv-logo="https://i.imgur.com/eShuzAv.png",CL: 13 CABLE
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eShuzAv.png",CL: 13 CABLE
 http://disfruta.club:8000/live/erich/erich/107.ts
-#EXTINF:-1 tv-logo="",CL: CANAL13
+#EXTINF:-1 tvg-logo="",CL: CANAL13
 http://disfruta.club:8000/live/erich/erich/103.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/qL74qev.png",CL: CANAL13 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qL74qev.png",CL: CANAL13 HD
 http://disfruta.club:8000/live/erich/erich/110.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/FZOq0hA.png",CL: CHV FULL HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FZOq0hA.png",CL: CHV FULL HD
 http://disfruta.club:8000/live/erich/erich/4822.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/FZOq0hA.png",CL: CHV HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FZOq0hA.png",CL: CHV HD
 http://disfruta.club:8000/live/erich/erich/7483.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/FZOq0hA.png",CL: CHV HD 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FZOq0hA.png",CL: CHV HD 2
 http://disfruta.club:8000/live/erich/erich/106.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/FZOq0hA.png",CL: CHV op2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FZOq0hA.png",CL: CHV op2
 http://disfruta.club:8000/live/erich/erich/3999.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/lgqRauH.png",CL: CDO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lgqRauH.png",CL: CDO
 http://disfruta.club:8000/live/erich/erich/2133.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/D6ZDDLi.jpg",CL: CDF Basico
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D6ZDDLi.jpg",CL: CDF Basico
 http://disfruta.club:8000/live/erich/erich/505.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/OnHNzhB.png",CL: CDF PREMIUN
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OnHNzhB.png",CL: CDF PREMIUN
 http://disfruta.club:8000/live/erich/erich/109.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/OnHNzhB.png",CL: CDF Premium op1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OnHNzhB.png",CL: CDF Premium op1
 http://disfruta.club:8000/live/erich/erich/988.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/OnHNzhB.png",CL: CDF Premium op2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OnHNzhB.png",CL: CDF Premium op2
 http://disfruta.club:8000/live/erich/erich/4366.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/OnHNzhB.png",CL: CDF HD (Bajas conexiones)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OnHNzhB.png",CL: CDF HD (Bajas conexiones)
 http://disfruta.club:8000/live/erich/erich/2087.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/OnHNzhB.png",CL: CDF HD 720p
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OnHNzhB.png",CL: CDF HD 720p
 http://disfruta.club:8000/live/erich/erich/7081.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/OnHNzhB.png",CL: CDF FULL HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OnHNzhB.png",CL: CDF FULL HD
 http://disfruta.club:8000/live/erich/erich/4821.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/OnHNzhB.png",CL: CDF FULL HD 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OnHNzhB.png",CL: CDF FULL HD 2
 http://disfruta.club:8000/live/erich/erich/7503.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/OnHNzhB.png",CL: CDF FULL HD 3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OnHNzhB.png",CL: CDF FULL HD 3
 http://disfruta.club:8000/live/erich/erich/7531.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/OnHNzhB.png",CL: Estadio CDF HD (solo eventos)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OnHNzhB.png",CL: Estadio CDF HD (solo eventos)
 http://disfruta.club:8000/live/erich/erich/261.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/PTfs5PQ.png",CL: ETC TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PTfs5PQ.png",CL: ETC TV
 http://disfruta.club:8000/live/erich/erich/971.ts
-#EXTINF:-1 tv-logo="",CL: FOX Sports Chile HD
+#EXTINF:-1 tvg-logo="",CL: FOX Sports Chile HD
 http://disfruta.club:8000/live/erich/erich/881.ts
-#EXTINF:-1 tv-logo="",CL: FOX Sports Chile 1 HD
+#EXTINF:-1 tvg-logo="",CL: FOX Sports Chile 1 HD
 http://disfruta.club:8000/live/erich/erich/3526.ts
-#EXTINF:-1 tv-logo="",CL: FOX Sports Chile 2 HD
+#EXTINF:-1 tvg-logo="",CL: FOX Sports Chile 2 HD
 http://disfruta.club:8000/live/erich/erich/3527.ts
-#EXTINF:-1 tv-logo="",CL: FOX Sports Chile 3 HD
+#EXTINF:-1 tvg-logo="",CL: FOX Sports Chile 3 HD
 http://disfruta.club:8000/live/erich/erich/3528.ts
-#EXTINF:-1 tv-logo="",CL: FM HOT
+#EXTINF:-1 tvg-logo="",CL: FM HOT
 http://disfruta.club:8000/live/erich/erich/7447.ts
-#EXTINF:-1 tv-logo="",CL: LA RED
+#EXTINF:-1 tvg-logo="",CL: LA RED
 http://disfruta.club:8000/live/erich/erich/108.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/qWeWAv0.png",CL: MEGA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qWeWAv0.png",CL: MEGA
 http://disfruta.club:8000/live/erich/erich/102.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/qWeWAv0.png",CL: MEGA HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qWeWAv0.png",CL: MEGA HD
 http://disfruta.club:8000/live/erich/erich/7445.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/qWeWAv0.png",CL: MEGA FULL HD
-#EXTINF:-1 tv-logo="https://i.imgur.com/rEBgtvP.png",CL: TV CHILE FULL HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qWeWAv0.png",CL: MEGA FULL HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rEBgtvP.png",CL: TV CHILE FULL HD
 http://disfruta.club:8000/live/erich/erich/7493.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/1mGE8jv.png",CL: TVN FULL HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1mGE8jv.png",CL: TVN FULL HD
 http://disfruta.club:8000/live/erich/erich/4823.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/1mGE8jv.png",CL: TVN HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1mGE8jv.png",CL: TVN HD
 http://disfruta.club:8000/live/erich/erich/104.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/1mGE8jv.png",CL: TVN
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1mGE8jv.png",CL: TVN
 http://disfruta.club:8000/live/erich/erich/2770.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/9JD20Ci.png",CL: TVN 24 Horas
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9JD20Ci.png",CL: TVN 24 Horas
 http://disfruta.club:8000/live/erich/erich/970.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/biyMYHG.png",CL: UCV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/biyMYHG.png",CL: UCV
 http://disfruta.club:8000/live/erich/erich/241.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/BianOzt.png",Claro Sports
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BianOzt.png",Claro Sports
 http://disfruta.club:8000/live/erich/erich/258.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/yWkEgbc.png",CNN CHILE
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yWkEgbc.png",CNN CHILE
 http://disfruta.club:8000/live/erich/erich/118.ts
 
-#EXTINF:-1 tv-logo="https://i.imgur.com/8LYDNB5.png",[COLOR gold]                         COLOMBIA[/COLOR]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8LYDNB5.png",[COLOR gold]                         COLOMBIA[/COLOR]
 http://disfruta.club
-#EXTINF:-1 tv-logo="",CO: Caracol HD
+#EXTINF:-1 tvg-logo="",CO: Caracol HD
 http://disfruta.club:8000/live/erich/erich/236.ts
-#EXTINF:-1 tv-logo="",CO: RCN
+#EXTINF:-1 tvg-logo="",CO: RCN
 http://disfruta.club:8000/live/erich/erich/141.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/24mwg0c.png",CO: WINSPORT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/24mwg0c.png",CO: WINSPORT
 http://disfruta.club:8000/live/erich/erich/120.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/24mwg0c.png",CO: WINSPORT HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/24mwg0c.png",CO: WINSPORT HD
 http://disfruta.club:8000/live/erich/erich/4675.ts
-#EXTINF:-1 tv-logo="",CO: FOX Sports Colombia HD
+#EXTINF:-1 tvg-logo="",CO: FOX Sports Colombia HD
 http://disfruta.club:8000/live/erich/erich/7485.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/azgBHiE.png",CO: Telemedellin
+#EXTINF:-1 tvg-logo="https://i.imgur.com/azgBHiE.png",CO: Telemedellin
 http://disfruta.club:8000/live/erich/erich/262.ts
-#EXTINF:-1 tv-logo="",CO: TRECE COLOMBIA
+#EXTINF:-1 tvg-logo="",CO: TRECE COLOMBIA
 http://disfruta.club:8000/live/erich/erich/142.ts
-#EXTINF:-1 tv-logo="",CO: Cable Noticias
+#EXTINF:-1 tvg-logo="",CO: Cable Noticias
 http://disfruta.club:8000/live/erich/erich/3160.ts
-#EXTINF:-1 tv-logo="",CO: CANAL ANTIESTRES
+#EXTINF:-1 tvg-logo="",CO: CANAL ANTIESTRES
 http://disfruta.club:8000/live/erich/erich/3157.ts
-#EXTINF:-1 tv-logo="",CO: CANAL U
+#EXTINF:-1 tvg-logo="",CO: CANAL U
 http://disfruta.club:8000/live/erich/erich/3162.ts
-#EXTINF:-1 tv-logo="",CO: CANTINAZO
+#EXTINF:-1 tvg-logo="",CO: CANTINAZO
 http://disfruta.club:8000/live/erich/erich/3156.ts
-#EXTINF:-1 tv-logo="",CO: CosmoVision
+#EXTINF:-1 tvg-logo="",CO: CosmoVision
 http://disfruta.club:8000/live/erich/erich/3163.ts
-#EXTINF:-1 tv-logo="",CO: El Tiempo
+#EXTINF:-1 tvg-logo="",CO: El Tiempo
 http://disfruta.club:8000/live/erich/erich/3159.ts
-#EXTINF:-1 tv-logo="",CO: LIFEDESING
+#EXTINF:-1 tvg-logo="",CO: LIFEDESING
 http://disfruta.club:8000/live/erich/erich/3155.ts
-#EXTINF:-1 tv-logo="",CO: MIMUSICA HD
+#EXTINF:-1 tvg-logo="",CO: MIMUSICA HD
 http://disfruta.club:8000/live/erich/erich/3154.ts
-#EXTINF:-1 tv-logo="",CO: TELE VIDA
+#EXTINF:-1 tvg-logo="",CO: TELE VIDA
 http://disfruta.club:8000/live/erich/erich/3158.ts
-#EXTINF:-1 tv-logo="",CO: TELEANTIOQUIA HD
+#EXTINF:-1 tvg-logo="",CO: TELEANTIOQUIA HD
 http://disfruta.club:8000/live/erich/erich/3164.ts
-#EXTINF:-1 tv-logo="",CO: Telecafe
+#EXTINF:-1 tvg-logo="",CO: Telecafe
 http://disfruta.club:8000/live/erich/erich/3165.ts
-#EXTINF:-1 tv-logo="",CO: TIGO MUSIC
+#EXTINF:-1 tvg-logo="",CO: TIGO MUSIC
 http://disfruta.club:8000/live/erich/erich/3153.ts
-#EXTINF:-1 tv-logo="",CO: TV AGRO
+#EXTINF:-1 tvg-logo="",CO: TV AGRO
 http://disfruta.club:8000/live/erich/erich/3161.ts
-#EXTINF:-1 tv-logo="",Comedy Central
+#EXTINF:-1 tvg-logo="",Comedy Central
 http://disfruta.club:8000/live/erich/erich/23.ts
 
 
-#EXTINF:-1 tv-logo="https://i.imgur.com/6xkbDLx.png",[COLOR gold]                       COSTA RICA[/COLOR]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6xkbDLx.png",[COLOR gold]                       COSTA RICA[/COLOR]
 http://disfruta.club
-#EXTINF:-1 tv-logo="https://i.imgur.com/wG3Ngbe.png",CR: Canal 7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wG3Ngbe.png",CR: Canal 7
 http://disfruta.club:8000/live/erich/erich/3560.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/9L2EC4f.png",CR: Repretel 11
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9L2EC4f.png",CR: Repretel 11
 http://disfruta.club:8000/live/erich/erich/288.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/IKqWxRs.png",CR: Repretel 4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IKqWxRs.png",CR: Repretel 4
 http://disfruta.club:8000/live/erich/erich/289.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/6RhPFKG.png",CR: Repretel 6 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6RhPFKG.png",CR: Repretel 6 HD
 http://disfruta.club:8000/live/erich/erich/290.ts
 
 
-#EXTINF:-1 tv-logo="https://i.imgur.com/UZHJVtG.png",[COLOR gold]                         ECUADOR[/COLOR]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UZHJVtG.png",[COLOR gold]                         ECUADOR[/COLOR]
 http://disfruta.club
-#EXTINF:-1 tv-logo="https://i.imgur.com/Is5uOTI.gif",EC: GOLTV (solo eventos)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Is5uOTI.gif",EC: GOLTV (solo eventos)
 http://disfruta.club:8000/live/erich/erich/7484.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/v3MimmH.png",EC: CNT Sports FULL HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v3MimmH.png",EC: CNT Sports FULL HD
 http://disfruta.club:8000/live/erich/erich/4018.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/v3MimmH.png",EC: CNT Sports
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v3MimmH.png",EC: CNT Sports
 http://disfruta.club:8000/live/erich/erich/350.ts
-#EXTINF:-1 tv-logo="",EC: Ecuavisa FULL HD
+#EXTINF:-1 tvg-logo="",EC: Ecuavisa FULL HD
 http://disfruta.club:8000/live/erich/erich/4020.ts
-#EXTINF:-1 tv-logo="",EC: Ecuavisa HD
+#EXTINF:-1 tvg-logo="",EC: Ecuavisa HD
 http://disfruta.club:8000/live/erich/erich/3148.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/FSzlj6M.png",EC: Ecuavisa op2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FSzlj6M.png",EC: Ecuavisa op2
 http://disfruta.club:8000/live/erich/erich/128.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/6y5LDeH.png",EC: RTS HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6y5LDeH.png",EC: RTS HD
 http://disfruta.club:8000/live/erich/erich/4017.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/6y5LDeH.png",EC: RTS Ecuador
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6y5LDeH.png",EC: RTS Ecuador
 http://disfruta.club:8000/live/erich/erich/138.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/uSu2ojB.png",EC: Teleamazonas FULL HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uSu2ojB.png",EC: Teleamazonas FULL HD
 http://disfruta.club:8000/live/erich/erich/4021.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/uSu2ojB.png",EC: Teleamazonas HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uSu2ojB.png",EC: Teleamazonas HD
 http://disfruta.club:8000/live/erich/erich/3150.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/uSu2ojB.png",EC: Teleamazonas op2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uSu2ojB.png",EC: Teleamazonas op2
 http://disfruta.club:8000/live/erich/erich/129.ts
-#EXTINF:-1 tv-logo="",EC: Ecuador TV
+#EXTINF:-1 tvg-logo="",EC: Ecuador TV
 http://disfruta.club:8000/live/erich/erich/131.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/1qqpmZp.png",EC: GAMA HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1qqpmZp.png",EC: GAMA HD
 http://disfruta.club:8000/live/erich/erich/4016.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/0SJsaaD.png",EC: TC Television FULL HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0SJsaaD.png",EC: TC Television FULL HD
 http://disfruta.club:8000/live/erich/erich/4019.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/0SJsaaD.png",EC: TC Television HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0SJsaaD.png",EC: TC Television HD
 http://disfruta.club:8000/live/erich/erich/976.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/0SJsaaD.png",EC: TC Television op2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0SJsaaD.png",EC: TC Television op2
 http://disfruta.club:8000/live/erich/erich/130.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/TiI3idi.jpg",EC: Canal UNO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TiI3idi.jpg",EC: Canal UNO
 http://disfruta.club:8000/live/erich/erich/133.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/Ok5TCls.png",EC: CANELA TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ok5TCls.png",EC: CANELA TV
 http://disfruta.club:8000/live/erich/erich/7080.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/EKwcybS.png",EC: OromarTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EKwcybS.png",EC: OromarTV
 http://disfruta.club:8000/live/erich/erich/137.ts
-#EXTINF:-1 tv-logo="",Campeonato EC 3 (solo eventos)
+#EXTINF:-1 tvg-logo="",Campeonato EC 3 (solo eventos)
 http://disfruta.club:8000/live/erich/erich/3212.ts
 
 
 
-#EXTINF:-1 tv-logo="https://i.imgur.com/KWuVzCV.png",[COLOR gold]                         PANAMA[/COLOR]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KWuVzCV.png",[COLOR gold]                         PANAMA[/COLOR]
 http://disfruta.club
-#EXTINF:-1 tv-logo="https://i.imgur.com/tToz5wX.png",PA: Cable Onda Sport
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tToz5wX.png",PA: Cable Onda Sport
 http://disfruta.club:8000/live/erich/erich/4002.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/0L2NdZ1.png",PA: Cable Onda Sport FC
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0L2NdZ1.png",PA: Cable Onda Sport FC
 http://disfruta.club:8000/live/erich/erich/4000.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/PjjbfOT.png",PA: ECO TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PjjbfOT.png",PA: ECO TV
 http://disfruta.club:8000/live/erich/erich/4006.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/uaGebu8.png",PA: OYE TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uaGebu8.png",PA: OYE TV
 http://disfruta.club:8000/live/erich/erich/4004.ts
-#EXTINF:-1 tv-logo="",PA: RPC PANAMA
+#EXTINF:-1 tvg-logo="",PA: RPC PANAMA
 http://disfruta.club:8000/live/erich/erich/4008.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/9uWBnbg.png",PA: SER TV PANAMA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9uWBnbg.png",PA: SER TV PANAMA
 http://disfruta.club:8000/live/erich/erich/4011.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/3LL2Pdj.png",PA: TELEMETRO PANAMA HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3LL2Pdj.png",PA: TELEMETRO PANAMA HD
 http://disfruta.club:8000/live/erich/erich/4013.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/eLtA9Bs.png",PA: TV MAX PANAMA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eLtA9Bs.png",PA: TV MAX PANAMA
 http://disfruta.club:8000/live/erich/erich/4010.ts
-#EXTINF:-1 tv-logo="http://vertelevisor.com/imagenes/tvn.png",PA: TVN PANAMA
+#EXTINF:-1 tvg-logo="http://vertelevisor.com/imagenes/tvn.png",PA: TVN PANAMA
 http://disfruta.club:8000/live/erich/erich/4014.ts
 
 
-#EXTINF:-1 tv-logo="https://i.imgur.com/Tb7zb3U.png",[COLOR gold]                             PERU[/COLOR]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Tb7zb3U.png",[COLOR gold]                             PERU[/COLOR]
 http://disfruta.club
-#EXTINF:-1 tv-logo="https://i.imgur.com/cHXJi5J.png",PE: AMERICA TELEVISION
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cHXJi5J.png",PE: AMERICA TELEVISION
 http://disfruta.club:8000/live/erich/erich/101.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/M0czl17.png",PE: ATV HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M0czl17.png",PE: ATV HD
 http://disfruta.club:8000/live/erich/erich/139.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/QIxrYZu.png",PE: Frecuencia Latina
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QIxrYZu.png",PE: Frecuencia Latina
 http://disfruta.club:8000/live/erich/erich/1045.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/M2pNXym.jpg",PE: GolPeru
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M2pNXym.jpg",PE: GolPeru
 http://disfruta.club:8000/live/erich/erich/4367.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/HtzeBlq.png",PE: Panamericana
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HtzeBlq.png",PE: Panamericana
 http://disfruta.club:8000/live/erich/erich/238.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/CL51AZO.png",PE: Peru Magico
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CL51AZO.png",PE: Peru Magico
 http://disfruta.club:8000/live/erich/erich/233.ts
 
 
-#EXTINF:-1 tv-logo="https://i.imgur.com/HHYrJdk.png",[COLOR gold]                    REPUBLICA DOMINICANA[/COLOR]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HHYrJdk.png",[COLOR gold]                    REPUBLICA DOMINICANA[/COLOR]
 http://disfruta.club
-#EXTINF:-1 tv-logo="",RD: CDN
+#EXTINF:-1 tvg-logo="",RD: CDN
 http://disfruta.club:8000/live/erich/erich/7232.ts
-#EXTINF:-1 tv-logo="",RD: Digital 15
+#EXTINF:-1 tvg-logo="",RD: Digital 15
 http://disfruta.club:8000/live/erich/erich/250.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/NOw74TH.png",RD: Teleantillas
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NOw74TH.png",RD: Teleantillas
 http://disfruta.club:8000/live/erich/erich/249.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/OrGqEKu.png",RD: Telecentro
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OrGqEKu.png",RD: Telecentro
 http://disfruta.club:8000/live/erich/erich/248.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/wCZRfj5.jpg",RD: Telenord 10
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCZRfj5.jpg",RD: Telenord 10
 http://disfruta.club:8000/live/erich/erich/247.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/wCZRfj5.jpg",RD: Telenord 12
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCZRfj5.jpg",RD: Telenord 12
 http://disfruta.club:8000/live/erich/erich/246.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/3fHdFXz.png",RD: Telesistema
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3fHdFXz.png",RD: Telesistema
 http://disfruta.club:8000/live/erich/erich/245.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/AY6s5tu.png",RD: Teleunion
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AY6s5tu.png",RD: Teleunion
 http://disfruta.club:8000/live/erich/erich/244.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/txiVNAu.png",RD: Teleuniverso
+#EXTINF:-1 tvg-logo="https://i.imgur.com/txiVNAu.png",RD: Teleuniverso
 http://disfruta.club:8000/live/erich/erich/243.ts
 
-#EXTINF:-1 tv-logo="https://i.imgur.com/2duTS80.png",[COLOR gold]                         URUGUAY[/COLOR]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2duTS80.png",[COLOR gold]                         URUGUAY[/COLOR]
 http://disfruta.club
-#EXTINF:-1 tv-logo="https://i.imgur.com/D20Tacc.png",UR: VTV HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D20Tacc.png",UR: VTV HD
 http://disfruta.club:8000/live/erich/erich/293.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/jFQyuTu.jpg",UR: VTV +
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jFQyuTu.jpg",UR: VTV +
 http://disfruta.club:8000/live/erich/erich/4824.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/qFhwN0v.png",UR: Canal 10
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qFhwN0v.png",UR: Canal 10
 http://disfruta.club:8000/live/erich/erich/3435.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/yW2jvMX.png",UR: La Tele
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yW2jvMX.png",UR: La Tele
 http://disfruta.club:8000/live/erich/erich/3436.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/o2r1CBE.png",UR: Monte Carlo TV HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/o2r1CBE.png",UR: Monte Carlo TV HD
 http://disfruta.club:8000/live/erich/erich/3434.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/7RvaZ4A.jpg",VE: La Teletuya
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7RvaZ4A.jpg",VE: La Teletuya
 http://disfruta.club:8000/live/erich/erich/271.ts
-#EXTINF:-1 tv-logo="https://i.imgur.com/qRutcOw.png",VE: Telesur
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qRutcOw.png",VE: Telesur
 http://disfruta.club:8000/live/erich/erich/2761.ts
+
